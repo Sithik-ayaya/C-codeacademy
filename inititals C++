@@ -1,0 +1,12 @@
+int main () {
+  
+  std::cout << " SSS    W           W   \n";
+  std::cout << "S   S   W           W   \n";
+  std::cout << "S       W           W   \n";
+  std::cout << "SSSSS   W     W     W   \n";
+  std::cout << "    S   W   W   W   W   \n";
+  std::cout << "S   S   W W       W W   \n";
+  std::cout << " SSS    W           W   \n";
+  
+  
+}
